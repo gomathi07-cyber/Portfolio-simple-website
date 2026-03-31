@@ -34,7 +34,7 @@ body{
     padding: 10px;
     padding-left: 20px;
     border-radius: 10px;
-    height: 200px;
+    height: 300px;
 }
 .section-four{
     background-color: aqua;
@@ -43,7 +43,7 @@ body{
     padding: 10px;
     padding-left: 20px;
     border-radius: 10px;
-    height: 200px;
+    height: 300px;
 }.section-two__para,.section-three__para,.section-four__para{
     padding: 20px;
 }.section-five{
